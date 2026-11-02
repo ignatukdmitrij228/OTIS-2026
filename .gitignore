@@ -43,3 +43,5 @@ Thumbs.db
 # result.csv
 # Local simulation output (используем doc/example_output.csv для примера)
 trunk/ii02909/task_01/result.csv
+trunk/ii02909/task_02/coverage_report/
+trunk/ii02909/task_02/LastCoverageResults.log
